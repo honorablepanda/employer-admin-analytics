@@ -1,0 +1,36 @@
+{
+  "timeSeries": [
+    {
+      "date": "2025-01-01",
+      "applications": 250,
+      "activeEmployers": 38,
+      "jobPosts": 95
+    },
+    {
+      "date": "2025-02-01",
+      "applications": 270,
+      "activeEmployers": 40,
+      "jobPosts": 100
+    },
+    {
+      "date": "2025-03-01",
+      "applications": 280,
+      "activeEmployers": 42,
+      "jobPosts": 110
+    }
+  ],
+  "insights": [
+    {
+      "id": 1,
+      "category": "Engagement",
+      "text": "Student engagement has increased by 12% in the last month.",
+      "urgency": "low"
+    },
+    {
+      "id": 2,
+      "category": "Job Posts",
+      "text": "Job post visibility is down 8%.",
+      "urgency": "high"
+    }
+  ]
+}

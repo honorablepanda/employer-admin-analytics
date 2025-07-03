@@ -1,0 +1,24 @@
+├── backupProjectCode.js
+├── backupProjectStructure.js
+├── code-backups
+│   └── code-bundle-1.txt
+├── Commands to run backup scripts.txt
+├── components
+│   ├── AdminAnalytics.jsx
+│   ├── AdminDataChat.jsx
+│   ├── ApplicationsOverTimeChart.jsx
+│   ├── InsightCard.jsx
+│   ├── KPICard.jsx
+│   ├── NudgeCard.jsx
+│   ├── PersonaToggle.jsx
+│   └── ProgressBar.jsx
+├── contexts
+├── hooks
+│   └── useEmployerAdminMockData.js
+├── index.jsx
+├── mock
+│   └── dummyAdminStats.json
+├── README.md
+├── structure-backups
+│   └── project-structure-part1.txt
+└── utils
