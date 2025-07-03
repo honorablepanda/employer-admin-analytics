@@ -1,16 +1,13 @@
 {
   "name": "employer-admin-analytics",
   "version": "1.0.0",
-  "description": "Frontend-only Employer & Admin Analytics module for the Career OS suite.",
+  "description": "Clean React 18 + Vite build for Employer & Admin Analytics",
   "main": "index.jsx",
   "scripts": {
     "dev": "vite",
-    "build": "node ./node_modules/vite/bin/vite.js build",
+    "build": "vite build",
     "preview": "vite preview"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "framer-motion": "^12.23.0",
     "prop-types": "^15.8.1",
